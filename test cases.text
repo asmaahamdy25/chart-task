@@ -1,0 +1,8 @@
+1- Add Chart
+*user click on add chart 
+*send api to create new chart 
+*call api to get all charts 
+*show message chart created sucessfully 
+
+2-Internal server error scenario
+*if there is error , show message 
